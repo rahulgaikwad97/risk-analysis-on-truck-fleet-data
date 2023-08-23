@@ -7,6 +7,21 @@
   <li>RECOMMENDATIONS/ DECISION MAKING: To help the truck fleet Managers, to highlight the drivers who have the RiskFactor greater than or equal to 7.0.</li>
 </ul>
 
-<h1>Technologies and Tools used: Apache Hadoop, Impala, Apache Pig, R, Tableau</h1>
-<h1>Visualization Tools used: Tableau</h1>
-<h1>Graphs used: Bar Graph, Heat maps, Bubble chart</h1>
+<h1>Technologies and Tools used</h1>
+<ul>
+  <li>Apache Hadoop</li>
+  <li>Impala</li>
+  <li>Apache Pig</li>
+  <li>R Programming</li>
+  <li>Tableau</li>
+</ul>
+<h1>Data visualization Tools used</h1>
+<ul>
+  <li>Tableau</li>
+</ul>
+<h1>Graphs used</h1>
+<ul>
+  <li>Bar Graph</li>
+  <li>Heat maps</li>
+  <li>Bubble chart</li>
+</ul>
